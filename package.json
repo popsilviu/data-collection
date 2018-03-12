@@ -1,0 +1,27 @@
+{
+  "name": "data-collection",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/popsilviud/data-collection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/popsilviud/data-collection/issues"
+  },
+  "homepage": "https://github.com/popsilviud/data-collection#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "jest": "^22.4.2"
+  }
+}
